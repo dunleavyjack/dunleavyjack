@@ -1,7 +1,7 @@
 # Hello ☁️
 
-I'm a Senior Software Engineer & Team Lead at 7-Eleven, leading the feature
-development and deployment of 7-Eleven’s first self-checkout platform in the
+I'm a Senior Software Engineer & Team Lead at 7-Eleven's R&D division, leading the feature
+development and deployment of our first self-checkout platform in the
 U.S.
 
 Lately, my focus has been on frontend architecture, state management, and
