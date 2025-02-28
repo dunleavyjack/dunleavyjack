@@ -6,10 +6,8 @@ U.S. I specialize in React, React Native, Redux, TypeScript, Kotlin, and
 Android.
 
 Lately, my focus has been on frontend architecture, state management, and
-optimizing high-performance applications at scale.
-
-I also love building developer tools—like Figma and Flipper plugins—to support
-my team!
+optimizing high-performance applications at scale. I also love building
+developer tools—like Figma and Flipper plugins—to support my team!
 
 Thanks for stopping by :)
 
