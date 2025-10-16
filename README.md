@@ -1,7 +1,7 @@
 # Hello ☁️
 
 I'm a Senior Software Engineer at Capital One. Before this role, I was leading the feature
-development and deployment of our first self-checkout platform in the U.S.
+development and deployment of our 7-Eleven's first self-checkout platform in the U.S.
 
 Lately, my focus has been on frontend architecture, state management, and
 optimizing high-performance applications at scale. I also love building
