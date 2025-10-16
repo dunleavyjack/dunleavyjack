@@ -1,6 +1,9 @@
 # Hello ☁️
 
-I'm a Senior Software Engineer.
+I'm a software engineer based in Brookyln.
+
+Right now, I'm working as a Senior Software Engineer at Capital One. Before this role, 
+I was at 7-Eleven leading the development of their first self checkout platform in the U.S.
 
 Lately, my focus has been on frontend architecture, state management, and
 optimizing high-performance applications at scale. I also love building
